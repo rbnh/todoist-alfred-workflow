@@ -1,6 +1,11 @@
 todoist-alfred-workflow
 =======================
 
+# Alfred workflow
+
+This Alfred workflow (for Alfred v.2+) adds new tasks to you Todoist inbox. 
+
+
 # Install
 
 1. Download the .zip archive
