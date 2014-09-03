@@ -12,5 +12,6 @@ This Alfred workflow (for Alfred v.2+) adds a new tasks to your [Todoist](www.to
 1. Download the .zip archive
 2. Double click to install the Alfred workflow
 3. In the workflow overview, edit the shell script and add you API key 
+4. Add a shortcut for fast access
 
 Have fun!
