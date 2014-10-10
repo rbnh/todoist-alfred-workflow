@@ -7,6 +7,12 @@ todoist-alfred-workflow
 This Alfred workflow (for Alfred v.2+) adds a new tasks to your [Todoist](www.todoist.com) inbox. Just type 'todo' (or change the keyword) followed by the task and hit 'enter'. Voilà, you just added a todo to your Todoist inbox.
 
 
+# Features
+
+- basic features for adding a todo to the Todoist inbox 
+- source files
+- support for the OS X notification center
+
 # Installation
 
 1. Download the .zip archive
