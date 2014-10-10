@@ -9,9 +9,9 @@ This Alfred workflow (for Alfred v.2+) adds a new tasks to your [Todoist](www.to
 
 # Features
 
-- basic features for adding a todo to the Todoist inbox 
-- source files
-- support for the OS X notification center
+- Basic features for adding a todo to the Todoist inbox 
+- Source files
+- Support for the OS X notification center
 
 # Installation
 
