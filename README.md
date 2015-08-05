@@ -4,7 +4,7 @@ todoist-alfred-workflow
 
 # About this Alfred workflow
 
-This Alfred workflow (for Alfred v.2+) adds a new tasks to your [Todoist](www.todoist.com) inbox. Just type 'todo' (or change the keyword) followed by the task and hit 'enter'. Voilà, you just added a todo to your Todoist inbox.
+This Alfred workflow (for Alfred v.2+) adds a new tasks to your [Todoist](https://www.todoist.com) inbox. Just type 'todo' (or change the keyword) followed by the task and hit 'enter'. Voilà, you just added a todo to your Todoist inbox.
 
 
 # Features
